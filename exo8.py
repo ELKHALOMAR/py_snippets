@@ -32,6 +32,3 @@ while play == "y":
                     continue
                 else:
                     print("goodbye")
-
-
-
