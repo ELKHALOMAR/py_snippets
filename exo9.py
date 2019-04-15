@@ -8,27 +8,30 @@
 #Keep track of how many guesses the user has taken, and when the game ends, print this out.
 
 import random
+z=0
+while True:
+    a = random.randint(1, 9)
+    user = int(input("enter a number between 1 and 9:"))
+    if a == user:
+        print("exact, you guessed well")
+    elif user > a:
+        print('to high, The exact number is', a)
+    else:
+        print('to low, The exact number is', a)
+    z += 1
 
-number = random.randint(1, 9)
-guess = 0
-count = 0
-
-while guess != number and guess != "exit":
-    guess = input("What's your guess?")
-
-    if guess == "exit":
+    play = input("do you want to replay (y/n):")
+    if play in ("y", "n"):
+        if play == "y":
+            continue
+        else:
+            print("you gessed", z, "times")
+            print("goodbye")
+            break
+    else:
+        print("false entry")
         break
 
-    guess = int(guess)
-    count += 1
-
-    if guess < number:
-        print("Too low!")
-    elif guess > number:
-        print("Too high!")
-    else:
-        print("You got it!")
-        print("And it only took you", count, "tries!")
 
 
 

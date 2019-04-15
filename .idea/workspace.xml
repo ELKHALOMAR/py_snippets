@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbebb12c-b2f4-4bad-88a6-d3e68d6af2b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/exo11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exo8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="357">
               <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
@@ -24,17 +27,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exo9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="476">
+              <caret line="31" column="23" selection-start-line="30" selection-start-column="3" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exo10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exo10.py">
+        <entry file="file://$PROJECT_DIR$/venv/exo11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="408">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#185#261#0" />
+                <element signature="e#289#440#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exo4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -91,7 +116,6 @@
         <option value="$PROJECT_DIR$/venv/exo2.py" />
         <option value="$PROJECT_DIR$/exo2.py" />
         <option value="$PROJECT_DIR$/exo3.py" />
-        <option value="$PROJECT_DIR$/exo4.py" />
         <option value="$PROJECT_DIR$/exo4_2.PY" />
         <option value="$PROJECT_DIR$/exo4_2.py" />
         <option value="$PROJECT_DIR$/exo5.py" />
@@ -99,8 +123,10 @@
         <option value="$PROJECT_DIR$/exo6_2.py" />
         <option value="$PROJECT_DIR$/exo7.py" />
         <option value="$PROJECT_DIR$/exo8.py" />
-        <option value="$PROJECT_DIR$/exo9.py" />
         <option value="$PROJECT_DIR$/exo10.py" />
+        <option value="$PROJECT_DIR$/exo4.py" />
+        <option value="$PROJECT_DIR$/exo9.py" />
+        <option value="$PROJECT_DIR$/venv/exo11.py" />
       </list>
     </option>
   </component>
@@ -121,6 +147,11 @@
             <path>
               <item name="PYT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PYT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PYT" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PYT" type="b2602c69:ProjectViewProjectNode" />
@@ -161,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exo10">
+  <component name="RunManager" selected="Python.exo11">
     <configuration name="exo10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exo6_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exo11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exo6_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/exo11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exo11" />
         <item itemvalue="Python.exo10" />
         <item itemvalue="Python.exo9" />
         <item itemvalue="Python.exo8" />
         <item itemvalue="Python.exo7" />
-        <item itemvalue="Python.exo6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -363,17 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exo4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/EXO9.py" />
-    <entry file="file://$PROJECT_DIR$/exo6.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/exo6_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -388,20 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exo8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exo9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exo5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -409,10 +416,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exo8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exo10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exo9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="23" selection-start-line="30" selection-start-column="3" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exo6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/exo11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#185#261#0" />
+            <element signature="e#289#440#0" />
+          </folding>
         </state>
       </provider>
     </entry>
