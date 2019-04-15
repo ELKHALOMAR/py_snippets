@@ -6,7 +6,9 @@
 
 
 num = int(input("number: "))
+
 a = list(range(1,num+1))
+
 List = []
 
 for number in a:
